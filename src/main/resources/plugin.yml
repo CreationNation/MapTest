@@ -1,0 +1,12 @@
+name: MapTest
+main: streammz.map.maptest.MapCore
+version: 0.0.1
+website: 
+author: Streammz
+description: >
+             Server statics on the Map Api
+commands:
+  maptest:
+    description: 
+    usage: |
+           /<command>
